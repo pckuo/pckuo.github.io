@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Po-Chen Kuo</title>
+    <link>http://pckuo.github.io/authors/</link>
+      <atom:link href="http://pckuo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 pckuo</copyright>
+    <image>
+      <url>http://pckuo.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://pckuo.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://pckuo.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://pckuo.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am Po-Chen Kuo, a second-year Ph.D. student studying computational neuroscience at &lt;a href=&#34;https://www.washington.edu/&#34;&gt;University of Washington&lt;/a&gt;, where I am fortunate to have Professor &lt;a href=&#34;https://edgarwalker.com/&#34;&gt;Edgar Walker&lt;/a&gt; as my advisor. I work closely with the &lt;a href=&#34;https://compneuro.washington.edu/&#34;&gt;Computational Neuroscience Center&lt;/a&gt; and the &lt;a href=&#34;https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/&#34;&gt;Allen Institue of Neural Dynamics&lt;/a&gt;. Previously, I received my &lt;a href=&#34;https://www.mc.ntu.edu.tw/ntucm/Index.action&#34;&gt;M.D.&lt;/a&gt; and &lt;a href=&#34;https://www.phys.ntu.edu.tw/enphysics/Default.html&#34;&gt;Bachelor degree in Physics&lt;/a&gt; at &lt;a href=&#34;https://www.ntu.edu.tw/english/&#34;&gt;National Taiwan University&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;I am interested in how computational mechanism of neural circuits underlie the complex phenomena of cognition, behavior, and intelligence in organmisms. Please visit this page on my research for more details!&lt;/p&gt;
+&lt;p&gt;Outside academics, I love all kinds of sports (especially baseball) and enjoy cooking and reading.&lt;/p&gt;
+&lt;h3 id=&#34;cv&#34;&gt;CV&lt;/h3&gt;
+&lt;p&gt;You can find my curriculum vitae &lt;a href=&#34;files/cv.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Email: pckuo [at] uw.edu&lt;br&gt;
+Office: Magnuson Health Sciences Building, 1705 NE Pacific Street, G-207, Seattle, WA 98195.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
