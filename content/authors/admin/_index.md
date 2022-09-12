@@ -78,9 +78,9 @@ user_groups:
 
 I am Po-Chen Kuo, a second-year Ph.D. student studying computational neuroscience at [University of Washington](https://www.washington.edu/), where I am fortunate to have Professor [Edgar Walker](https://edgarwalker.com/) as my advisor. I work closely with the [Computational Neuroscience Center](https://compneuro.washington.edu/) and the [Allen Institue of Neural Dynamics](https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/). Previously, I received my [M.D.](https://www.mc.ntu.edu.tw/ntucm/Index.action) and [Bachelor degree in Physics](https://www.phys.ntu.edu.tw/enphysics/Default.html) at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2020. 
 
-I am interested in how computational mechanism of neural circuits underlie the complex phenomena of cognition, behavior, and intelligence in organmisms. Please visit this page on my research for more details!
+I am interested in how computational mechanism of neural circuits underlies the complex phenomena of cognition, behavior, and intelligence in organmisms. Please visit my research page for more details!
 
-Outside academics, I love all kinds of sports (especially baseball) and enjoy cooking and reading.
+Outside academics, I enjoy reading, cooking, and baseball.
 
 
 ### CV
