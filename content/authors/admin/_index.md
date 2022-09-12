@@ -62,9 +62,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pckuo@uw.edu"
@@ -83,9 +83,9 @@ I am interested in how computational mechanism of neural circuits underlies the 
 Outside academics, I enjoy reading, cooking, and baseball.
 
 
-### CV
+<!-- ### CV
 You can find my curriculum vitae [here](files/cv.pdf).
-
+-->
 
 ### Contact
 Email: pckuo [at] uw.edu\
