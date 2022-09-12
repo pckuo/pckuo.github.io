@@ -23,7 +23,7 @@ organizations:
 # interests:
 # - Theoretical Computer Science
 
-bio: quote from -- albert einstein
+bio: quote from -- Albert Einstein
 
 # education:
 #   courses:
@@ -58,7 +58,6 @@ social:
 - icon: google-scholar
   icon_pack: fab
   link: 'https://scholar.google.com/citations?user=1-XqW4IAAAAJ&hl=en'
-
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
