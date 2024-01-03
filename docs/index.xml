@@ -5,12 +5,36 @@
     <link>http://pckuo.github.io/</link>
       <atom:link href="http://pckuo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Po-Chen Kuo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 pckuo</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 pckuo</copyright>
     <image>
       <url>http://pckuo.github.io/img/icon-192.png</url>
       <title>Po-Chen Kuo</title>
       <link>http://pckuo.github.io/</link>
     </image>
+    
+    <item>
+      <title>Notes</title>
+      <link>http://pckuo.github.io/notes/</link>
+      <pubDate>Mon, 12 Sep 2022 18:29:25 -0700</pubDate>
+      <guid>http://pckuo.github.io/notes/</guid>
+      <description>&lt;p&gt;Writing usually helps me think deeper.
+These notes are designed for quick references, but not for a tutorial read from cover to cover.
+The materials mainly focus on definitions, theorems, proofs and some conceptual interpretations.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://pckuo.github.io/resources/</link>
+      <pubDate>Mon, 12 Sep 2022 18:29:25 -0700</pubDate>
+      <guid>http://pckuo.github.io/resources/</guid>
+      <description>&lt;p&gt;Below are some useful resources and links that help my academic carear!&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog</title>

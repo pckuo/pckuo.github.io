@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -77,11 +77,11 @@ user_groups:
 - Visitors
 ---
 
-I am Po-Chen Kuo, a second-year Ph.D. student studying computational neuroscience at [University of Washington](https://www.washington.edu/), where I am fortunate to have Professor [Edgar Walker](https://edgarwalker.com/) as my advisor. I work closely with the [Computational Neuroscience Center](https://compneuro.washington.edu/) and the [Allen Institue of Neural Dynamics](https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/). Previously, I received my [M.D.](https://www.mc.ntu.edu.tw/ntucm/Index.action) and [Bachelor degree in Physics](https://www.phys.ntu.edu.tw/enphysics/Default.html) at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2020. 
+I am Po-Chen Kuo, a 3rd-year Ph.D. candidate studying computational neuroscience at [University of Washington](https://www.washington.edu/) and a visiting scientist at the [Allen Institue for Neural Dynamics](https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/). I am fortunate to have Professor [Edgar Walker](https://edgarwalker.com/) as my advisor, and work closely with the [UW Computational Neuroscience Center](https://compneuro.washington.edu/). Previously I received my [M.D.](https://www.mc.ntu.edu.tw/ntucm/Index.action) and [B.Sc. in Physics](https://www.phys.ntu.edu.tw/enphysics/Default.html) at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2020. 
 
-I am interested in how computational mechanism of neural circuits underlies the complex phenomena of cognition, behavior, and intelligence in organmisms. Please visit my research page for more details!
+I am interested in how computational mechanism of neural circuits underlies the complex phenomena of cognition, behavior, and intelligence in organmisms. I study how biological and artificial intelligent systems adapt under uncertainty, with a focus on reinforcement learning, Bayesian inference, and meta-learning. Please visit my research page for more details!
 
-Outside academics, I enjoy reading, cooking, and baseball.
+Aside from research, I enjoy reading, cooking, and baseball.
 
 
 <!-- ### CV

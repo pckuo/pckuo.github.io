@@ -5,7 +5,7 @@
     <link>http://pckuo.github.io/authors/</link>
       <atom:link href="http://pckuo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 pckuo</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 pckuo</copyright>
     <image>
       <url>http://pckuo.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,9 +17,9 @@
       <link>http://pckuo.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://pckuo.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am Po-Chen Kuo, a second-year Ph.D. student studying computational neuroscience at &lt;a href=&#34;https://www.washington.edu/&#34;&gt;University of Washington&lt;/a&gt;, where I am fortunate to have Professor &lt;a href=&#34;https://edgarwalker.com/&#34;&gt;Edgar Walker&lt;/a&gt; as my advisor. I work closely with the &lt;a href=&#34;https://compneuro.washington.edu/&#34;&gt;Computational Neuroscience Center&lt;/a&gt; and the &lt;a href=&#34;https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/&#34;&gt;Allen Institue of Neural Dynamics&lt;/a&gt;. Previously, I received my &lt;a href=&#34;https://www.mc.ntu.edu.tw/ntucm/Index.action&#34;&gt;M.D.&lt;/a&gt; and &lt;a href=&#34;https://www.phys.ntu.edu.tw/enphysics/Default.html&#34;&gt;Bachelor degree in Physics&lt;/a&gt; at &lt;a href=&#34;https://www.ntu.edu.tw/english/&#34;&gt;National Taiwan University&lt;/a&gt; in 2020.&lt;/p&gt;
-&lt;p&gt;I am interested in how computational mechanism of neural circuits underlies the complex phenomena of cognition, behavior, and intelligence in organmisms. Please visit my research page for more details!&lt;/p&gt;
-&lt;p&gt;Outside academics, I enjoy reading, cooking, and baseball.&lt;/p&gt;
+      <description>&lt;p&gt;I am Po-Chen Kuo, a 3rd-year Ph.D. candidate studying computational neuroscience at &lt;a href=&#34;https://www.washington.edu/&#34;&gt;University of Washington&lt;/a&gt; and a visiting scientist at the &lt;a href=&#34;https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/&#34;&gt;Allen Institue for Neural Dynamics&lt;/a&gt;. I am fortunate to have Professor &lt;a href=&#34;https://edgarwalker.com/&#34;&gt;Edgar Walker&lt;/a&gt; as my advisor, and work closely with the &lt;a href=&#34;https://compneuro.washington.edu/&#34;&gt;UW Computational Neuroscience Center&lt;/a&gt;. Previously I received my &lt;a href=&#34;https://www.mc.ntu.edu.tw/ntucm/Index.action&#34;&gt;M.D.&lt;/a&gt; and &lt;a href=&#34;https://www.phys.ntu.edu.tw/enphysics/Default.html&#34;&gt;B.Sc. in Physics&lt;/a&gt; at &lt;a href=&#34;https://www.ntu.edu.tw/english/&#34;&gt;National Taiwan University&lt;/a&gt; in 2020.&lt;/p&gt;
+&lt;p&gt;I am interested in how computational mechanism of neural circuits underlies the complex phenomena of cognition, behavior, and intelligence in organmisms. I study how biological and artificial intelligent systems adapt under uncertainty, with a focus on reinforcement learning, Bayesian inference, and meta-learning. Please visit my research page for more details!&lt;/p&gt;
+&lt;p&gt;Aside from research, I enjoy reading, cooking, and baseball.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
