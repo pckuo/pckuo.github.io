@@ -84,11 +84,6 @@ I am interested in how neural circuits, dynamics, and computation support the co
 Aside from research, I enjoy reading, cooking, and baseball.
 
 
-<!-- ### CV
-You can find my curriculum vitae [here](files/cv.pdf).
--->
-
 ### Contact
 Email: pckuo [at] uw [dot] edu\
 Office: Magnuson Health Sciences Building, 1705 NE Pacific Street, Seattle, WA 98195
-

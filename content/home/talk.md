@@ -46,6 +46,3 @@ subtitle = ""
 + [Feb 2024] University of Washington, NEUSCI 403 Lecture (Computational Models For Cognitive Neuroscience). "Adaptive learning under uncertainty: learning to reinforcement learn with actor-critic recurrent neural networks"
 
 + [Aug 2023] [Allen Institute for Brain Science, Summer Workshop on the Dynamic Brain.](https://alleninstitute.org/events/summer-workshop-on-the-dynamic-brain-2023/) ["What gives rise to neural variability and dynamics?"](https://github.com/AllenInstitute/swdb_variability/tree/main)
-
-
-        

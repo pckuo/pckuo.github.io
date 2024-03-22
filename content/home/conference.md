@@ -53,6 +53,3 @@ Summer School for Cryptography in Academia Sinica (July 29, 2019)
 + [Mar 2024] Hendrickson Trainee Symposium, University of Washington School of Medicine (Poster, Abstract) "Bayesian Reinforcement Learning For The Computational Basis Of Dynamic Foraging" **Kuo, P.-C.** and Walker, E. Y.
 
 + [Feb 2024] [Janelia Conference, Bridging Diverse Perspectives on the Mechanistic Basis of Foraging](https://www.janelia.org/you-janelia/conferences/bridging-diverse-perspectives-on-the-mechanistic-basis-of-foraging) (Poster, Abstract) "Bayesian reinforcement learning as a mechanistic model for dynamic foraging behavior" **Kuo, P.-C.** and Walker, E. Y. 
-
-
-        
