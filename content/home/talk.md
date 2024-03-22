@@ -2,9 +2,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
-title = "Conference Presentations"
+title = "Invited Talks"
 subtitle = ""
 
 [design]
@@ -42,17 +42,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<!--
-#### Blockchains with Proof-of-Stake [\[slides\]](/talks/PoSblockchain.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Summer School for Cryptography in Academia Sinica (July 29, 2019)
--->
-+ [*Upcoming*, Jun 2024] [AREADNE 2024, Research in Encoding And Decoding of Neural Ensembles](https://areadne.org) (Poster, Abstract) "An information-theoretical approach to optimize task design for distinguishing probabilistic codes in neural populations" **Kuo, P.-C.** and Walker, E. Y.
++ [Feb 2024] University of Washington, NEUSCI 403 Lecture (Computational Models For Cognitive Neuroscience). "Adaptive learning under uncertainty: learning to reinforcement learn with actor-critic recurrent neural networks"
 
-+ [Mar 2024] Hendrickson Trainee Symposium, University of Washington School of Medicine (Poster, Abstract) "Bayesian Reinforcement Learning For The Computational Basis Of Dynamic Foraging" **Kuo, P.-C.** and Walker, E. Y.
-
-+ [Feb 2024] [Janelia Conference, Bridging Diverse Perspectives on the Mechanistic Basis of Foraging](https://www.janelia.org/you-janelia/conferences/bridging-diverse-perspectives-on-the-mechanistic-basis-of-foraging) (Poster, Abstract) "Bayesian reinforcement learning as a mechanistic model for dynamic foraging behavior" **Kuo, P.-C.** and Walker, E. Y. 
++ [Aug 2023] [Allen Institute for Brain Science, Summer Workshop on the Dynamic Brain.](https://alleninstitute.org/events/summer-workshop-on-the-dynamic-brain-2023/) ["What gives rise to neural variability and dynamics?"](https://github.com/AllenInstitute/swdb_variability/tree/main)
 
 
         
