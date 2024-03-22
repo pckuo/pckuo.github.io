@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -89,6 +89,6 @@ You can find my curriculum vitae [here](files/cv.pdf).
 -->
 
 ### Contact
-Email: pckuo [at] uw.edu\
-Office: Magnuson Health Sciences Building, 1705 NE Pacific Street, G-207, Seattle, WA 98195.
+Email: pckuo [at] uw [dot] edu\
+Office: Magnuson Health Sciences Building, 1705 NE Pacific Street, Seattle, WA 98195
 
