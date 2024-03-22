@@ -4,7 +4,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Talks"
+title = "Conference Presentations"
 subtitle = ""
 
 [design]
@@ -48,3 +48,6 @@ subtitle = ""
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
 -->
+
++ [Feb 2024] Janelia Conference, Bridging Diverse Perspectives on the Mechanistic Basis of Foraging (Poster, Abstract) **Kuo, P.-C.** and Walker, E. Y. "Bayesian reinforcement learning as a mechanistic model for dynamic foraging behavior"
+        

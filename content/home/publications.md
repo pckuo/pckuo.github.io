@@ -45,7 +45,7 @@ subtitle = ""
 
 
 ### Peer-reviewed Journal Articles
-+ [Assessment of Expert-Level Automated Detection of *Plasmodium falciparum* in Digitized Thin Blood Smear Images.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762023) Kuo, P. C., Cheng, H. Y., Chen, P. F., Liu, Y. L., Kang, M., Kuo, M. C., ... & Chuang, J. H. *JAMA network open, 3(2), e200206-e200206. 2020.*
++ [Assessment of Expert-Level Automated Detection of *Plasmodium falciparum* in Digitized Thin Blood Smear Images.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762023) **Kuo, P.-C.**, Cheng, H.-Y., Chen, P.-F., Liu, Y.-L., Kang, M., Kuo, M.-C., ... & Chuang, J.-H. *JAMA network open, 3(2), e200206-e200206. 2020.*
 
 
 ### Peer-reviewed Conference Papers
