@@ -49,14 +49,14 @@ subtitle = ""
 
 
 ### Peer-reviewed Conference Papers
-+ [Tractable Dendritic RNNs for Reconstructing Nonlinear Dynamical Systems.](https://proceedings.mlr.press/v162/brenner22a.html) Brenner, M., Hess, F., Mikhaeil, J. M., Bereska, L. F., Monfared, Z., **Kuo, P. C.**, & Durstewitz, D. *Proceedings of the 39th International Conference on Machine Learning, PMLR 162:2292-2320, 2022.*
++ [Tractable Dendritic RNNs for Reconstructing Nonlinear Dynamical Systems.](https://proceedings.mlr.press/v162/brenner22a.html) Brenner, M., Hess, F., Mikhaeil, J. M., Bereska, L. F., Monfared, Z., **Kuo, P.-C.**, & Durstewitz, D. *Proceedings of the 39th International Conference on Machine Learning, PMLR 162:2292-2320, 2022.*
 
-+ [Self-similarity student for partial label histopathology image segmentation.](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_8) Cheng, H. T., Yeh, C. F., **Kuo, P. C.**, Wei, A., Liu, K. C., Ko, M. C., ... & Liu, T. L. *European Conference on Computer Vision (pp. 117-132). Springer, Cham. 2020.*
++ [Self-similarity student for partial label histopathology image segmentation.](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_8) Cheng, H.-T., Yeh, C.-F., **Kuo, P.-C.**, Wei, A., Liu, K.-C., Ko, M.-C., ... & Liu, T.-L. *European Conference on Computer Vision (pp. 117-132). Springer, Cham. 2020.*
 
 
 ### Preprints
-+ [A cascaded learning strategy for robust covid-19 pneumonia chest x-ray screening.](https://arxiv.org/abs/2004.12786) Yeh, C. F., Cheng, H. T., Wei, A., Chen, H. M., **Kuo, P. C.**, Liu, K. C., ... & Liu, T. L. *arXiv preprint arXiv:2004.12786. 2020.*
++ [A cascaded learning strategy for robust covid-19 pneumonia chest x-ray screening.](https://arxiv.org/abs/2004.12786) Yeh, C.-F., Cheng, H.-T., Wei, A., Chen, H.-M., **Kuo, P.-C.**, Liu, K.-C., ... & Liu, T.-L. *arXiv preprint arXiv:2004.12786. 2020.*
 
 
 ### Book Chapters
-+ [Prize-winning Works of National Taiwan University Student Laureate for Philosophical Treatise, Vol. 3.](https://press.ntu.edu.tw/tw/publish/show.php?act=book&refer=ntup_book00921&page=2&field=bser) Lee H. C. *National Taiwan University Press. 2016.*
++ [Prize-winning Works of National Taiwan University Student Laureate for Philosophical Treatise, Vol. 3.](https://press.ntu.edu.tw/tw/publish/show.php?act=book&refer=ntup_book00921&page=2&field=bser) Lee H.-C. *National Taiwan University Press. 2016.*
