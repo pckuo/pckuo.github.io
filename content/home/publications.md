@@ -44,14 +44,17 @@ subtitle = ""
 +++
 
 
-### Peer-reviewed Journal Articles
-+ [Assessment of Expert-Level Automated Detection of *Plasmodium falciparum* in Digitized Thin Blood Smear Images.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762023) **Kuo, P.-C.**, Cheng, H.-Y., Chen, P.-F., Liu, Y.-L., Kang, M., Kuo, M.-C., ... & Chuang, J.-H. *JAMA network open*, 3(2), e200206-e200206. 2020.
-
 
 ### Peer-reviewed Conference Proceedings
++ [Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding.](https://openreview.net/forum?id=rtwbxaEtvd) **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. (2024). *The First Workshop on NeuroAI @ NeurIPS2024*.
+
 + [Tractable Dendritic RNNs for Reconstructing Nonlinear Dynamical Systems.](https://proceedings.mlr.press/v162/brenner22a.html) Brenner, M., Hess, F., Mikhaeil, J. M., Bereska, L. F., Monfared, Z., **Kuo, P.-C.**, & Durstewitz, D. *Proceedings of the 39th International Conference on Machine Learning*, PMLR 162:2292-2320, 2022.
 
 + [Self-similarity student for partial label histopathology image segmentation.](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_8) Cheng, H.-T., Yeh, C.-F., **Kuo, P.-C.**, Wei, A., Liu, K.-C., Ko, M.-C., ... & Liu, T.-L. *European Conference on Computer Vision (pp. 117-132)*. Springer, Cham. 2020.
+
+
+### Peer-reviewed Journal Articles
++ [Assessment of Expert-Level Automated Detection of *Plasmodium falciparum* in Digitized Thin Blood Smear Images.](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762023) **Kuo, P.-C.**, Cheng, H.-Y., Chen, P.-F., Liu, Y.-L., Kang, M., Kuo, M.-C., ... & Chuang, J.-H. *JAMA network open*, 3(2), e200206-e200206. 2020.
 
 
 ### Preprints

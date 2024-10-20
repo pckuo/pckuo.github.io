@@ -49,9 +49,11 @@ subtitle = ""
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
 -->
 
-+ [*Upcoming*, Aug 2024] [Cognitive Computational Neuroscience 2024](https://2024.ccneuro.org) (Poster, Paper) "Adaptive Learning Under Uncertainty With Variational Belief Deep Reinforcement Learning" **Kuo, P.-C.**, Hou, H., \& Walker, E. Y. 
++ [*Upcoming*, Dec 2024] [The First Workshop on NeuroAI @ NeurIPS2024](https://neuroai-workshop.github.io/) (Poster, Paper) [Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding.](https://openreview.net/forum?id=rtwbxaEtvd) **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. (2024).
 
-+ [*Upcoming*, Jun 2024] [AREADNE 2024, Research in Encoding And Decoding of Neural Ensembles](https://areadne.org) (Poster, Abstract) "An information-theoretical approach to optimize task design for distinguishing probabilistic codes in neural populations" **Kuo, P.-C.** and Walker, E. Y.
++ [Aug 2024] [Cognitive Computational Neuroscience 2024](https://2024.ccneuro.org) (Poster, Paper) "Adaptive Learning Under Uncertainty With Variational Belief Deep Reinforcement Learning" **Kuo, P.-C.**, Hou, H., \& Walker, E. Y. 
+
++ [Jun 2024] [AREADNE 2024, Research in Encoding And Decoding of Neural Ensembles](https://areadne.org) (Poster, Abstract) "An information-theoretical approach to optimize task design for distinguishing probabilistic codes in neural populations" **Kuo, P.-C.** and Walker, E. Y.
 
 + [May 2024] [CoNectome 2024 Symposium](https://compneuro.washington.edu/news-and-events/conectome-2024/) (Poster, Abstract) "Bayesian reinforcement learning for the computational basis of dynamic foraging" **Kuo, P.-C.** and Walker, E. Y.  
 
