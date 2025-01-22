@@ -49,7 +49,12 @@ subtitle = ""
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
 -->
 
-+ [*Upcoming*, Dec 2024] [The First Workshop on NeuroAI @ NeurIPS2024](https://neuroai-workshop.github.io/) (Poster, Paper) [Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding.](https://openreview.net/forum?id=rtwbxaEtvd) **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. (2024).
++ [*Upcoming*, Mar 2025] [Computational and Systems Neuroscience (COSYNE) 2025](https://www.cosyne.org/) (Poster, Abstract) Task Structures Shape Underlying Dynamical Systems That Implement Computation. **Kuo, P,-C.**, Walker, E. Y., \& Driscoll, L. (2025).
+
++ [Dec 2024] [The First Workshop on NeuroAI @ NeurIPS2024](https://neuroai-workshop.github.io/) (Poster, Paper) [Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding.](https://openreview.net/forum?id=rtwbxaEtvd) **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. (2024).
+
++ [Aug 2024] Analytical Connectionism Summer School 2024 (Poster, Abstract) "Uncovering the Computation of Dynamic Foraging with Actor-critic
+Recurrent Neural Networks" **Kuo, P,-C.**, Driscoll, L., \& Walker, E. Y.
 
 + [Aug 2024] [Cognitive Computational Neuroscience 2024](https://2024.ccneuro.org) (Poster, Paper) "Adaptive Learning Under Uncertainty With Variational Belief Deep Reinforcement Learning" **Kuo, P.-C.**, Hou, H., \& Walker, E. Y. 
 
