@@ -49,13 +49,15 @@ subtitle = ""
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
 -->
 
-+ [*Upcoming,* Dec 2025] [Oral, Poster] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.* **Kuo, P,-C.** and Walker, E. Y. 
++ [*Upcoming*, Apr 2026] [Poster] [ICLR 2026.](https://iclr.cc) *An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes..* **Kuo, P,-C.** \& Walker, E. Y. 
 
-+ [*Upcoming,* Dec 2025] [Poster] [NeurIPS 2025.](https://neurips.cc) *Predictive Coding Enhances Meta-RL To Achieve Bayes-Optimal Belief Representation Under Partial Observability.* **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. 
++ [Dec 2025] [Oral, Poster] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.* **Kuo, P,-C.** and Walker, E. Y. 
+
++ [Dec 2025] [Poster] [NeurIPS 2025.](https://neurips.cc) *Predictive Coding Enhances Meta-RL To Achieve Bayes-Optimal Belief Representation Under Partial Observability.* **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. 
       
-+ [*Upcoming,* Dec 2025] [Poster] [NeurIPS 2025.](https://neurips.cc) *Volume Transmission Implements Context Factorization to Target Online Credit Assignment and Enable Compositional Generalization.* Bull, M. S., **Kuo, P,-C.**, Smith, A. L., \& Buice, M. A. 
++ [Dec 2025] [Poster] [NeurIPS 2025.](https://neurips.cc) *Volume Transmission Implements Context Factorization to Target Online Credit Assignment and Enable Compositional Generalization.* Bull, M. S., **Kuo, P,-C.**, Smith, A. L., \& Buice, M. A. 
   
-+ [*Upcoming,* Nov 2025] [Poster] [Society for Neuroscience, SfN 2025.](https://www.sfn.org/meetings/neuroscience-2025) *An Information-Theoretical Approach To Optimizing Task Design For Distinguishing Probabilistic Codes In Neural Populations.* **Kuo, P,-C.** and Walker, E. Y. 
++ [Nov 2025] [Poster] [Society for Neuroscience, SfN 2025.](https://www.sfn.org/meetings/neuroscience-2025) *An Information-Theoretical Approach To Optimizing Task Design For Distinguishing Probabilistic Codes In Neural Populations.* **Kuo, P,-C.** and Walker, E. Y. 
   
 + [Sep 2025] [Poster] [Lake Conference – Neural Coding \& Dynamics 2025.](https://alleninstitute.org/events/lake-conference-neural-coding-dynamics-2025/) *Task Structures Shape Underlying Dynamical Systems That Implement Computation.* **Kuo, P,-C.**, Walker, E. Y., \& Driscoll, L.
       

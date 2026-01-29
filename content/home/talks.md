@@ -43,7 +43,9 @@ subtitle = ""
  css_class = ""
 +++
 
-+ [*Upcoming,* Dec 2025] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.*
++ [Dec 2025] [National Yang Ming Chiao Tung University, Institute of Neuroscience Seminar](https://ins.nycu.edu.tw/index.php/2025/12/04/01-129/), invited by Prof. Shih-Chieh Lin. *A NeuroAI Approach To Adaptive Learning Under Uncertainty: From Neural Representation To Dynamics.*
+
++ [Dec 2025] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.*
 
 + [Oct 2025] University of Washington, Grey Matters Journal Club. *A NeuroAI Approach to Understanding Adaptive Learning Under Uncertainty.*
     
