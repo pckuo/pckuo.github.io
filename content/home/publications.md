@@ -46,9 +46,9 @@ subtitle = ""
 
 
 ### Peer-reviewed Conference Proceedings
-+ <u>Kuo, P,-C.</u> \& Walker, E. Y. (2026). [An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes.](https://openreview.net/forum?id=doxBjZ88H3) In *ICLR 2026.* (28\% acceptance)
++ <ins>Kuo, P,-C.</ins> \& Walker, E. Y. (2026). [An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes.](https://openreview.net/forum?id=doxBjZ88H3) In *ICLR 2026.* (28\% acceptance)
 
-+ <u>Kuo, P,-C.</u>, Hou, H., Dabney, W., \& Walker, E. Y. (2025). [Predictive Coding Enhances Meta-RL To Achieve Bayes-Optimal Belief Representation Under Partial Observability.](https://openreview.net/forum?id=ykDUVoelgj) In *NeurIPS 2025.* (24.5\% acceptance)
++ <ins>Kuo, P,-C.</ins>, Hou, H., Dabney, W., \& Walker, E. Y. (2025). [Predictive Coding Enhances Meta-RL To Achieve Bayes-Optimal Belief Representation Under Partial Observability.](https://openreview.net/forum?id=ykDUVoelgj) In *NeurIPS 2025.* (24.5\% acceptance)
 
 + Bull, M. S., **Kuo, P,-C.**, ..., \& Buice, M. A. (2025). [Volume Transmission Implements Context Factorization to Target Online Credit Assignment and Enable Compositional Generalization.](https://openreview.net/forum?id=S9Y89poypx) In *NeurIPS 2025.* (24.5\% acceptance)
 
