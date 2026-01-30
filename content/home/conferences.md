@@ -49,7 +49,7 @@ subtitle = ""
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
 -->
 
-+ [*Upcoming*, Apr 2026] [Poster] [ICLR 2026.](https://iclr.cc) *An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes..* **Kuo, P,-C.** \& Walker, E. Y. 
++ [*Upcoming*, Apr 2026] [Poster] [ICLR 2026.](https://iclr.cc) *``An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes.''* **Kuo, P,-C.** \& Walker, E. Y. 
 
 + [Dec 2025] [Oral, Poster] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.* **Kuo, P,-C.** and Walker, E. Y. 
 
