@@ -55,7 +55,7 @@ subtitle = ""
 
 + [Feb 2025] University of Washington, Prof. Bing Brunton's Laboratory. *''Learning Bayes-optimal Representations Under Partial Observability via Meta-Reinforcement Learning with Predictive Coding.''*
 
-+ [Jul 2024] [TReND-CaMinA: Computational Neuroscience and Machine Learning in Africa.](https://trendinafrica.org/trend-camina/) [*''From Neural Variability to Population Coding''*](https://github.com/trendinafrica/TReND-CaMinA/blob/main/notebooks/Rwanda24/10-11-Wed-Thu-AllenTutorial/Code_Ocean_tutorials/Day%202%20-%20Neural%20variability.ipynb)
++ [Jul 2024] [TReND-CaMinA: Computational Neuroscience and Machine Learning in Africa.](https://trendinafrica.org/trend-camina/) [*''From Neural Variability to Population Coding.''*](https://github.com/trendinafrica/TReND-CaMinA/blob/main/notebooks/Rwanda24/10-11-Wed-Thu-AllenTutorial/Code_Ocean_tutorials/Day%202%20-%20Neural%20variability.ipynb)
 
 + [Feb 2024] University of Washington, NEUSCI 403 Lecture (Computational Models For Cognitive Neuroscience). *''Adaptive learning under uncertainty: learning to reinforcement learn with actor-critic recurrent neural networks.''*
 
