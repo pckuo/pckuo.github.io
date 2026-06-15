@@ -42,6 +42,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
++ [Mar 2026] Seattle Mind and Machines Meeting. *''An Information-Theoretical Approach To Optimizing Experimental Design For Differentiating Probabilistic Neural Codes.''*
 
 + [Dec 2025] [National Yang Ming Chiao Tung University, Institute of Neuroscience Seminar](https://ins.nycu.edu.tw/index.php/2025/12/04/01-129/), invited by Prof. Shih-Chieh Lin. *''A NeuroAI Approach To Adaptive Learning Under Uncertainty: From Neural Representation To Dynamics.''*
 
@@ -51,7 +52,7 @@ subtitle = ""
     
 + [Sep 2025] Stanford University, Prof. Andreas Tolias' Laboratory. *''Deciphering Neural Representations Supporting Perception and Decision-Making Under Uncertainty.''*
 
-+ [Aug 2025] [Allen Institute, Summer Workshop on the Dynamic Brain.](https://alleninstitute.org/events/summer-workshop-on-the-dynamic-brain-2025/) [*''Recurrent Neural Networks for Dynamic Foraging.''*](https://github.com/AllenSWDB/SWDB_2025_Dynamical_Systems/blob/main/code/Workshop-2-RNNs%20for%20Dynamic%20Foraging.ipynb)
++ [Aug 2025] [Allen Institute for Brain Science, Summer Workshop on the Dynamic Brain.](https://alleninstitute.org/events/summer-workshop-on-the-dynamic-brain-2025/) [*''Recurrent Neural Networks for Dynamic Foraging.''*](https://github.com/AllenSWDB/SWDB_2025_Dynamical_Systems/blob/main/code/Workshop-2-RNNs%20for%20Dynamic%20Foraging.ipynb)
 
 + [Feb 2025] University of Washington, Prof. Bing Brunton's Laboratory. *''Learning Bayes-optimal Representations Under Partial Observability via Meta-Reinforcement Learning with Predictive Coding.''*
 

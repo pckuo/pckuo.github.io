@@ -19,9 +19,14 @@
   weight = 10
 
 [[main]]
-  name = "Invited Talks"
+  name = "Talks"
   url = "#talks"
   weight = 15
+
+[[main]]
+  name = "Reviewer"
+  url = "#reviewer"
+  weight = 20
 
 #[[main]]
 #  name = "Notes"

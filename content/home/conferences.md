@@ -49,9 +49,9 @@ subtitle = ""
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
 -->
 
-+ [*Upcoming*, Apr 2026] [Poster] [ICLR 2026.](https://iclr.cc) *''An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes.''*  **Kuo, P,-C.** \& Walker, E. Y. 
++ [Apr 2026] [Poster] [ICLR 2026.](https://iclr.cc) *''An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes.''*  **Kuo, P,-C.** \& Walker, E. Y. 
 
-+ [Dec 2025] [Oral, Poster] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *''An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.''*  **Kuo, P,-C.** and Walker, E. Y. 
++ [Dec 2025] [Oral] [NeurIPS 2025, Data on the Brain \& Mind Workshop.](https://data-brain-mind.github.io) *''An Information-Theoretical Approach To Optimizing Task Design For Differentiating Probabilistic Neural Codes.''*  **Kuo, P,-C.** and Walker, E. Y. 
 
 + [Dec 2025] [Poster] [NeurIPS 2025.](https://neurips.cc) *''Predictive Coding Enhances Meta-RL To Achieve Bayes-Optimal Belief Representation Under Partial Observability.''*  **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. 
       
@@ -61,7 +61,7 @@ Summer School for Cryptography in Academia Sinica (July 29, 2019)
   
 + [Sep 2025] [Poster] [Lake Conference – Neural Coding \& Dynamics 2025.](https://alleninstitute.org/events/lake-conference-neural-coding-dynamics-2025/) *''Task Structures Shape Underlying Dynamical Systems That Implement Computation.''*  **Kuo, P,-C.**, Walker, E. Y., \& Driscoll, L.
       
-+ [Jun 2025] [Spotlight, Poster] [Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM 2025.](https://rldm.org/) *''Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding.''*  **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. 
++ [Jun 2025] [Spotlight] [Multi-disciplinary Conference on Reinforcement Learning and Decision Making, RLDM 2025.](https://rldm.org/) *''Learning Bayes-Optimal Representation in Partially Observable Environments via Meta-Reinforcement Learning with Predictive Coding.''*  **Kuo, P,-C.**, Hou, H., Dabney, W., \& Walker, E. Y. 
 
 + [Mar 2025] [Poster, Presenter Travel Award] [Computational and Systems Neuroscience, COSYNE 2025.](https://www.cosyne.org/) *''Task Structures Shape Underlying Dynamical Systems That Implement Computation.''*  **Kuo, P,-C.**, Walker, E. Y., \& Driscoll, L.
 

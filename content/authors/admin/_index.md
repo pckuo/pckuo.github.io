@@ -77,11 +77,11 @@ user_groups:
 - Visitors
 ---
 
-I am Po-Chen Kuo, a 5th-year Ph.D. Candidate in computational neuroscience at [University of Washington](https://www.washington.edu/) and a visiting scientist at the [Allen Institue for Neural Dynamics](https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/). I am fortunate to have Professor [Edgar Y. Walker](https://edgarwalker.com/) as my advisor, and work closely with the [UW Computational Neuroscience Center](https://compneuro.washington.edu/). Previously I received my [M.D.](https://www.mc.ntu.edu.tw/ntucm/Index.action) and [B.Sc. in Physics](https://www.phys.ntu.edu.tw/enphysics/Default.html) at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2020. 
+I am Po-Chen Kuo, a final year Ph.D. Candidate in computational neuroscience at [University of Washington](https://www.washington.edu/) [Computational Neuroscience Center](https://compneuro.washington.edu/) and a visiting scientist at the [Allen Institue for Neural Dynamics](https://alleninstitute.org/what-we-do/brain-science/research/allen-institute-neural-dynamics/). I am fortunate to have Dr. [Edgar Y. Walker](https://edgarwalker.com/) as my advisor, and work closely with Dr. [Laura Driscoll](https://lauradriscoll.github.io/). Previously I received my M.D. and B.Sc. in Physics at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2020. 
 
-I am interested in how neural circuits, dynamics, and computation support the complex phenomena of cognition, behavior, and intelligence in organmisms. I study how biological and artificial intelligent systems adapt under uncertainty, with a focus on reinforcement learning, Bayesian inference, and meta-learning. Please visit my research page for more details!
+I am interested in how neural circuits, dynamics, and computation support cognition and behavior. I study how biological and artificial intelligence adapt under uncertainty, with a focus on reinforcement learning, Bayesian inference, and meta-learning. Please visit my research page for more detail!
 
-Aside from research, I enjoy reading, cooking, and baseball.
+Aside from research, I enjoy reading, baseball, and guitar.
 
 
 ### Contact
